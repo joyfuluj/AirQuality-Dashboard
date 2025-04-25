@@ -1,5 +1,12 @@
 # IoT Air Quality Dashboard
 
+Watch Me! 👉 [Demo](https://youtu.be/JzPznVCSUJU?si=YKbdPW9-FBSps1G-)
+
+<img width="1416" alt="Image" src="https://github.com/user-attachments/assets/f8ff1ec5-0df0-4e53-b4c1-01f37164e524" />
+
+## Full Documentation
+[SkyTrack](https://github.com/vol2468/bluebuffalo/blob/main/SkyTrack%20Documentation.pdf)
+
 ## Description
 
 This website will display historical air quality information for US cities from the year 2000 to 2021, through graphs. The website will track the pollutants Carbon Monoxide, Nitrogen Dioxide, Ozone, and Sulphur Dioxide (CO, NO2, O3, SO2). This will serve to inform the public about the increasing pollution in US cities and hopefully make them more aware of not only their impact but also of the collective impact of the industries they support. This information could also be shown to school children to make them aware of the rapidly changing world they inhabit and the potential threats that come with the status quo lifestyle of the US general population.
@@ -86,3 +93,4 @@ Feedback (contact us)
 ## UML Class Diagram
 
 ![uml class diagram](images/uml_class.png)
+
