@@ -12,7 +12,7 @@ Watch Me! 👉 [Demo](https://youtu.be/JzPznVCSUJU?si=YKbdPW9-FBSps1G-)
 This website will display historical air quality information for US cities from the year 2000 to 2021, through graphs. The website will track the pollutants Carbon Monoxide, Nitrogen Dioxide, Ozone, and Sulphur Dioxide (CO, NO2, O3, SO2). This will serve to inform the public about the increasing pollution in US cities and hopefully make them more aware of not only their impact but also of the collective impact of the industries they support. This information could also be shown to school children to make them aware of the rapidly changing world they inhabit and the potential threats that come with the status quo lifestyle of the US general population.
 
 - The stack that we used:
-  - Flask and Django → web frameworks
+  - Flask → web frameworks
   - SQLite → database
   - leaflet.js → maps
   - Twilio (free credits),
